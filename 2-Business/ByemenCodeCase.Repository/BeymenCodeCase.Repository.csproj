@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\3-Data\BeymenCodeCase.Context\BeymenCodeCase.Context.csproj" />
+    <ProjectReference Include="..\..\3-Data\BeymenCodeCase.Entity\BeymenCodeCase.Entity.csproj" />
+  </ItemGroup>
+
+</Project>
